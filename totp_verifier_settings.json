@@ -1,0 +1,9 @@
+{
+  "pdf_include_username": true,
+  "pdf_include_password": true,
+  "pdf_include_totp_label": false,
+  "pdf_include_secret_text": true,
+  "pdf_include_created_date_header": true,
+  "pdf_include_created_date_footer": false,
+  "pdf_mask_password": false
+}
